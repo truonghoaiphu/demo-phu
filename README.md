@@ -1,7 +1,7 @@
 # Laravel Open Structure
 
 ```
-cp .env{.example,}
+cp ./src/.env{.example,}
 ```
 
 ```bash
